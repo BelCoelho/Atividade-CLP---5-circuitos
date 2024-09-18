@@ -1,5 +1,5 @@
 # Instruções
-
+Equipe: Isabela Coelho, Danilo Ribeiro e Fernando Lucas
 ## Elaborar o projeto eletrônico das seguintes interfaces:
 
 A)o microcontrolador envia um sinal de 3,3 ou 5 volts e aciona-se uma saída optoacoplada à triac em 127Vca / 1A ou @230Vca / 1A;
