@@ -1,4 +1,4 @@
-# descrição do que foi feito em cada atividade
+# Descrição do que foi feito em cada atividade
 
 ## Explicação:
 
